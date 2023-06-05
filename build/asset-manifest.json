@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c930e6a.css",
+    "main.js": "/static/js/main.cbc7f914.js",
+    "static/media/residential.mp4": "/static/media/residential.93a31801086315d8271e.mp4",
+    "static/media/video-kaula-lampur.mp4": "/static/media/video-kaula-lampur.d3569dd860bfef0e3eef.mp4",
+    "static/media/commercial.mp4": "/static/media/commercial.034fd4e7de271e865a0e.mp4",
+    "static/media/sco.mp4": "/static/media/sco.28cae98b9e154bb05ded.mp4",
+    "static/media/residential-img.jpg": "/static/media/residential-img.b6c8a507efe705f1123e.jpg",
+    "static/media/commercial-img.jpg": "/static/media/commercial-img.35c1e5fa285a8b4fc63a.jpg",
+    "static/media/career-img.jpg": "/static/media/career-img.d86b108da87cbb8ae576.jpg",
+    "static/media/sco-img.jpg": "/static/media/sco-img.a118633c2662b184e3d9.jpg",
+    "static/media/m3m-2.jpg": "/static/media/m3m-2.c725dc3474f2da975fc1.jpg",
+    "static/media/PNG-No Background.png": "/static/media/PNG-No Background.07ac437c0056e9156890.png",
+    "static/media/logo.png": "/static/media/logo.4b3d3c56b27ac2b7a5c5.png",
+    "static/media/logo-bg-1.png": "/static/media/logo-bg-1.16eff1677e137d94f775.png",
+    "static/media/ores-dev.png": "/static/media/ores-dev.9b2afb56f34990a6d6a2.png",
+    "static/media/shapooji.png": "/static/media/shapooji.da51d7af948511379299.png",
+    "static/media/4s-new.png": "/static/media/4s-new.71f5619236ce929cf874.png",
+    "static/media/m2k.png": "/static/media/m2k.61996346f75530c51fe7.png",
+    "static/media/elan.png": "/static/media/elan.b80b3297754489c4ebc3.png",
+    "static/media/conscient.png": "/static/media/conscient.e5af992c8f22ddb1cec7.png",
+    "index.html": "/index.html",
+    "main.3c930e6a.css.map": "/static/css/main.3c930e6a.css.map",
+    "main.cbc7f914.js.map": "/static/js/main.cbc7f914.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c930e6a.css",
+    "static/js/main.cbc7f914.js"
+  ]
+}
